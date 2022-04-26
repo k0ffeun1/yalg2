@@ -569,6 +569,10 @@ body {
   margin: 0 auto;
 }
 
+.video__block-img {
+  margin: 0 auto;
+}
+
 .slider .slick-dots {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
@@ -730,6 +734,10 @@ body {
 
 .videokeys {
   margin-bottom: 4vw;
+}
+
+.videokeys__img {
+  margin: 0 auto;
 }
 
 .team {
